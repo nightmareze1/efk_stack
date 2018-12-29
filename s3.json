@@ -1,0 +1,11 @@
+{
+   "type": "s3",
+   "settings": {
+     "bucket": "es-snapshots-rappi",
+     "region": "us-west-2",
+     "access_key": "YOU_ACCESS_KEY",
+     "secret_key": "YOU_SECRET_KEY",
+     "role_arn": "arn:aws:iam::581653423581:role/es-snapshot-role",
+     "endpoint": "s3.us-west-2.amazonaws.com"
+   }
+}
