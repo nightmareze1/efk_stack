@@ -64,4 +64,4 @@ bb2df4424c67        kibana:5.5          "/docker-entrypoint.…"   5 seconds ago
 553faf7ff35f        elk_elasticsearch   "/docker-entrypoint.…"   6 seconds ago       Up 5 seconds        0.0.0.0:9200->9200/tcp, 0.0.0.0:9300->9300/tcp                                         elk_elasticsearch_1_5b663ec85bc2
 ```
 
-![alt text](https://raw.githubusercontent.com/nightmareze1/efk_stack/master/img/1.png)
+![alt text](https://raw.githubusercontent.com/nightmareze1/efk_stack/master/img/2.png)
