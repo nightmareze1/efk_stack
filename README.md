@@ -63,7 +63,8 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 bb2df4424c67        kibana:5.5          "/docker-entrypoint.…"   5 seconds ago       Up 3 seconds        0.0.0.0:5601->5601/tcp                                                                 elk_kibana_1_4d0385478295
 553faf7ff35f        elk_elasticsearch   "/docker-entrypoint.…"   6 seconds ago       Up 5 seconds        0.0.0.0:9200->9200/tcp, 0.0.0.0:9300->9300/tcp                                         elk_elasticsearch_1_5b663ec85bc2
 ```
-Check EFK_STACK Running:
+# EFK_STACK Running:
+
 ![alt text](https://raw.githubusercontent.com/nightmareze1/efk_stack/master/img/3.png)
 
 ![alt text](https://raw.githubusercontent.com/nightmareze1/efk_stack/master/img/2.png)
